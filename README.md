@@ -1,0 +1,2 @@
+# cheap-oneword-domains
+List of cheap one word domain names with availability, expiration date, attractiveness, demand score.
