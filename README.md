@@ -1,10 +1,10 @@
-# Available .CHEAP One-Word Domains (9,380)
+# Available .CHEAP One-Word Domains (9,382)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C384%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C380%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C382%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .cheap one-word domains from Uniqu
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,384 rows · **Live catalog:** 9,380 domains
+**Public extract:** 9,384 rows · **Live catalog:** 9,382 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/cheap`  
 **Best for:** founders, investors, studios
 
@@ -64,16 +64,16 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| zero.cheap     | available | $9.99     | $46.99        | 112            | 53     | 4      | name.com                                                  |
+| zero.cheap     | available | $9.99     | $46.99        | 112            | 54     | 4      | name.com                                                  |
 | home.cheap     | resell    | —         | —             | 100            | 62     | 4      | Spaceship, Inc.                                           |
 | art.cheap      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap                                                 |
-| clear.cheap    | available | $9.99     | $46.99        | 90             | 50     | 5      | name.com                                                  |
+| clear.cheap    | available | $9.99     | $46.99        | 90             | 49     | 5      | name.com                                                  |
 | code.cheap     | resell    | —         | —             | 72             | 61     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | abc.cheap      | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap                                                 |
-| genius.cheap   | available | $9.99     | $46.99        | 98             | 47     | 6      | name.com                                                  |
+| genius.cheap   | available | $9.99     | $46.99        | 98             | 45     | 6      | name.com                                                  |
 | dot.cheap      | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.                                           |
 | air.cheap      | premium   | $520      | $520          | 84             | 49     | 3      | namecheap                                                 |
-| creator.cheap  | available | $9.99     | $46.99        | 70             | 44     | 7      | name.com                                                  |
+| creator.cheap  | available | $9.99     | $46.99        | 70             | 45     | 7      | name.com                                                  |
 | local.cheap    | resell    | —         | —             | 102            | 54     | 5      | Dynadot Inc                                               |
 | security.cheap | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                                 |
 | forge.cheap    | available | $9.99     | $46.99        | 62             | 44     | 5      | name.com                                                  |
@@ -83,7 +83,7 @@ print(df.head())
 | sky.cheap      | resell    | —         | —             | 80             | 53     | 3      | Dynadot Inc                                               |
 | law.cheap      | premium   | $128.70   | $128.70       | 82             | 46     | 3      | namecheap                                                 |
 | pop.cheap      | available | $9.99     | $46.99        | 82             | 43     | 3      | name.com                                                  |
-| info.cheap     | resell    | —         | —             | 80             | 53     | 4      | Spaceship, Inc.                                           |
+| info.cheap     | resell    | —         | —             | 80             | 51     | 4      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,384-row public sample | 9,380 live domains                               |
+| 9,384-row public sample | 9,382 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
