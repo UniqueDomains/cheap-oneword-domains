@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cheap one-word domains from Uniqu
 
 **Public extract:** 9,385 rows · **Live catalog:** 9,384 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cheap`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | sky.cheap      | resell    | —         | —             | 80             | 53     | 3      | Dynadot Inc                                               |
 | law.cheap      | premium   | $128.70   | $128.70       | 82             | 46     | 3      | namecheap                                                 |
 | pop.cheap      | available | $9.99     | $46.99        | 82             | 43     | 3      | name.com                                                  |
-| info.cheap     | resell    | —         | —             | 80             | 51     | 4      | Spaceship, Inc.                                           |
+| global.cheap   | resell    | —         | —             | 108            | 51     | 6      | Edomains LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
