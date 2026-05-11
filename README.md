@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cheap one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,324 domains · **Median ask:** $19.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/tld/cheap`  
 **Best for:** founders, investors, studios
 
@@ -77,10 +77,10 @@ print(df.head())
 | webshop.cheap   | resell    | —         | —             | 76             | 22     | 8      | Dynadot Inc       |
 | sites.cheap     | premium   | $500      | —             | 53             | 26     | 5      | name.com          |
 | teams.cheap     | available | $9.99     | —             | 62             | 32     | 5      | name.com          |
-| houses.cheap    | resell    | —         | —             | 66             | 18     | 6      | GoDaddy.com, LLC  |
+| leasing.cheap   | resell    | —         | —             | 70             | 19     | 7      | Name.com, Inc.    |
 | watches.cheap   | premium   | $250      | —             | 84             | 19     | 7      | name.com          |
 | spaces.cheap    | available | $9.99     | —             | 54             | 30     | 6      | name.com          |
-| leasing.cheap   | resell    | —         | —             | 70             | 17     | 7      | Name.com, Inc.    |
+| houses.cheap    | resell    | —         | —             | 66             | 18     | 6      | GoDaddy.com, LLC  |
 | vacations.cheap | premium   | $500      | —             | 56             | 19     | 9      | name.com          |
 | heroes.cheap    | available | $9.99     | —             | 68             | 29     | 6      | name.com          |
 | prices.cheap    | resell    | —         | —             | 51             | 15     | 6      | Sav.com, LLC - 48 |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
