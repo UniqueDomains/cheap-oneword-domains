@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cheap one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,325 domains · **Median ask:** $19.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/cheap`  
 **Best for:** founders, investors, studios
 
@@ -64,13 +64,13 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| matcha.cheap    | available | $9.99     | —             | 86             | 39     | 6      | name.com          |
+| whynot.cheap    | available | $9.99     | —             | 74             | 44     | 7      | name.com          |
 | slots.cheap     | resell    | —         | —             | 49             | 31     | 5      | Dynadot Inc       |
 | Books.cheap     | premium   | $280      | $280          | 52             | 49     | 5      | namecheap         |
-| lets.cheap      | available | $9.99     | —             | 77             | 39     | 4      | name.com          |
+| matcha.cheap    | available | $9.99     | —             | 86             | 39     | 6      | name.com          |
 | toys.cheap      | resell    | —         | —             | 60             | 24     | 4      | Dynadot Inc       |
 | maps.cheap      | premium   | $123.75   | —             | 56             | 31     | 4      | name.com          |
-| whynot.cheap    | available | $9.99     | —             | 74             | 39     | 7      | name.com          |
+| lets.cheap      | available | $9.99     | —             | 77             | 39     | 4      | name.com          |
 | coupons.cheap   | resell    | —         | —             | 52             | 24     | 7      | Porkbun LLC       |
 | photos.cheap    | premium   | $250      | —             | 54             | 28     | 6      | name.com          |
 | justin.cheap    | available | $9.99     | —             | 58             | 38     | 7      | name.com          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
