@@ -1,10 +1,10 @@
-# Available .CHEAP One-Word Domains (12,325)
+# Available .CHEAP One-Word Domains (12,324)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C325%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C324%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .cheap one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,325 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,324 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,325 domains · **Median ask:** $19.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,324 domains · **Median ask:** $18.37 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cheap`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cheap`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CHEAP one-word domain
 
 ### Files
 
-- `cheap.csv` — public CSV extract (1,000 rows)
-- `cheap.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cheap.csv`, public CSV extract (1,000 rows)
+- `cheap.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| whynot.cheap    | available | $9.99     | —             | 74             | 44     | 7      | name.com          |
-| slots.cheap     | resell    | —         | —             | 49             | 31     | 5      | Dynadot Inc       |
-| Books.cheap     | premium   | $280      | $280          | 52             | 49     | 5      | namecheap         |
-| matcha.cheap    | available | $9.99     | —             | 86             | 39     | 6      | name.com          |
-| toys.cheap      | resell    | —         | —             | 60             | 24     | 4      | Dynadot Inc       |
-| maps.cheap      | premium   | $123.75   | —             | 56             | 31     | 4      | name.com          |
-| lets.cheap      | available | $9.99     | —             | 77             | 39     | 4      | name.com          |
-| coupons.cheap   | resell    | —         | —             | 52             | 24     | 7      | Porkbun LLC       |
-| photos.cheap    | premium   | $250      | —             | 54             | 28     | 6      | name.com          |
-| justin.cheap    | available | $9.99     | —             | 58             | 38     | 7      | name.com          |
-| webshop.cheap   | resell    | —         | —             | 76             | 22     | 8      | Dynadot Inc       |
-| sites.cheap     | premium   | $500      | —             | 53             | 26     | 5      | name.com          |
-| teams.cheap     | available | $9.99     | —             | 62             | 32     | 5      | name.com          |
-| leasing.cheap   | resell    | —         | —             | 70             | 19     | 7      | Name.com, Inc.    |
-| watches.cheap   | premium   | $250      | —             | 84             | 19     | 7      | name.com          |
-| spaces.cheap    | available | $9.99     | —             | 54             | 30     | 6      | name.com          |
-| houses.cheap    | resell    | —         | —             | 66             | 18     | 6      | GoDaddy.com, LLC  |
-| vacations.cheap | premium   | $500      | —             | 56             | 19     | 9      | name.com          |
-| heroes.cheap    | available | $9.99     | —             | 68             | 29     | 6      | name.com          |
-| prices.cheap    | resell    | —         | —             | 51             | 15     | 6      | Sav.com, LLC - 48 |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| atp.cheap     | available | $9.99     | —             | medium         | low    | 3      | name.com        |
+| core.cheap    | resell    | $9.99     | —             | medium         | medium | 4      | Dynadot Inc     |
+| few.cheap     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| Ava.cheap     | available | $9.99     | —             | high           | medium | 3      | name.com        |
+| tow.cheap     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
+| law.cheap     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
+| cap.cheap     | available | $9.99     | —             | high           | low    | 3      | name.com        |
+| most.cheap    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
+| low.cheap     | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com        |
+| cut.cheap     | available | $9.99     | $46.99        | high           | low    | 3      | name.com        |
+| event.cheap   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| see.cheap     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| dig.cheap     | available | $9.99     | —             | high           | low    | 3      | name.com        |
+| global.cheap  | resell    | —         | —             | high           | medium | 6      | Edomains LLC    |
+| bags.cheap    | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo        |
+| dry.cheap     | available | $9.99     | $46.99        | high           | low    | 3      | name.com        |
+| stable.cheap  | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
+| city.cheap    | premium   | $242      | $242          | high           | medium | 4      | namesilo        |
+| egg.cheap     | available | $9.99     | —             | high           | low    | 3      | name.com        |
+| payment.cheap | resell    | —         | —             | high           | low    | 7      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,325 live domains                        |
+| 1,000-row public sample | 12,324 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word domains on the .cheap extension. The names range from plain dictionary words such as handle.cheap and lunch.cheap to broader terms like affirmative.cheap and usa.cheap. For founders, the main question is whether the word stays credible when paired with an extension that carries a strong price-led meaning. For investors, the key test is whether the low median ask of 19.23 leaves room for a buyable entry without relying on strong resale evidence. When comparing these domains, focus on word quality first, then judge whether the .cheap ending reinforces the use case or creates trust friction.
+This list gathers one-word domain names registered under the .cheap extension, an unconventional but low-cost TLD. Names range across everyday nouns and niche terms — from chickensoup.cheap and rumcake.cheap to neuroscience.cheap and popup.cheap — reflecting the breadth of this 12,324-domain set. With a median ask near $18, these domains sit at an entry-level price point, which favors quick evaluation on brandability before longer-term commitment. Because .cheap is a smaller, non-mainstream TLD, distinguishing memorable, easy-to-spell names from generic ones is the main filter whether you're evaluating for fast acquisition or a lasting brand build.
 
-- All domains in this set use the .cheap extension
-- The selection contains 12,323 one-word domains
-- Median ask across the set is 19.23
-- Best fits words that work with price-led positioning
+- 12,324 one-word .cheap domains, updated daily
+- Median ask near $18 — an accessible entry point
+- Spans everyday nouns to niche terms and pop culture
+- Non-mainstream TLD — brandability matters more than TLD trust
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
