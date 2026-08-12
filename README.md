@@ -1,10 +1,10 @@
-# Available .CHEAP One-Word Domains (13,278)
+# Available .CHEAP One-Word Domains (13,789)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C278%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C789%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cheap one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,278 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,789 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,278 domains · **Median ask:** $15.44 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 13,789 domains · **Median ask:** $15.12 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-11
+**Last updated:** 2026-08-12
 **Canonical page:** `https://unique.domains/domains/tld/cheap`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| atp.cheap     | available | $9.99     | —             | medium         | low    | 3      | name.com        |
-| core.cheap    | resell    | $9.99     | —             | medium         | medium | 4      | Dynadot Inc     |
-| few.cheap     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| Ava.cheap     | available | $9.99     | —             | high           | medium | 3      | name.com        |
-| tow.cheap     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
-| law.cheap     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
-| cap.cheap     | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| most.cheap    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
-| low.cheap     | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com        |
-| cut.cheap     | available | $9.99     | $46.99        | high           | low    | 3      | name.com        |
-| event.cheap   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
-| see.cheap     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| dig.cheap     | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| global.cheap  | resell    | —         | —             | high           | medium | 6      | Edomains LLC    |
-| bags.cheap    | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo        |
-| dry.cheap     | available | $9.99     | $46.99        | high           | low    | 3      | name.com        |
-| stable.cheap  | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
-| city.cheap    | premium   | $242      | $242          | high           | medium | 4      | namesilo        |
-| egg.cheap     | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| payment.cheap | resell    | —         | —             | high           | low    | 7      | Dynadot Inc     |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| okay.cheap   | available | $9.99     | $46.99        | high           | low    | 4      | name.com        |
+| sorry.cheap  | available | $9.99     | $46.99        | high           | low    | 5      | name.com        |
+| cut.cheap    | available | $9.99     | $46.99        | high           | low    | 3      | name.com        |
+| atp.cheap    | available | $9.99     | —             | medium         | low    | 3      | name.com        |
+| core.cheap   | resell    | $9.99     | —             | medium         | medium | 4      | Dynadot Inc     |
+| few.cheap    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| Ava.cheap    | available | $9.99     | —             | high           | medium | 3      | name.com        |
+| tow.cheap    | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
+| law.cheap    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
+| cap.cheap    | available | $9.99     | —             | high           | low    | 3      | name.com        |
+| most.cheap   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
+| low.cheap    | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com        |
+| event.cheap  | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| see.cheap    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| dig.cheap    | available | $9.99     | —             | high           | low    | 3      | name.com        |
+| global.cheap | resell    | —         | —             | high           | medium | 6      | Edomains LLC    |
+| bags.cheap   | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo        |
+| dry.cheap    | available | $9.99     | $46.99        | high           | low    | 3      | name.com        |
+| stable.cheap | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
+| city.cheap   | premium   | $242      | $242          | high           | medium | 4      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,278 live domains                        |
+| 1,000-row public sample | 13,789 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-08-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
