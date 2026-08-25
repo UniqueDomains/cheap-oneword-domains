@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cheap one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,955 domains · **Median ask:** $12.79 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/cheap`
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,6 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | okay.cheap   | available | $9.99     | $46.99        | high           | low    | 4      | name.com        |
 | sorry.cheap  | available | $9.99     | $46.99        | high           | low    | 5      | name.com        |
-| cut.cheap    | available | $9.99     | $46.99        | high           | low    | 3      | name.com        |
 | atp.cheap    | available | $9.99     | —             | medium         | low    | 3      | name.com        |
 | core.cheap   | resell    | $9.99     | —             | medium         | medium | 4      | Dynadot Inc     |
 | few.cheap    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
@@ -76,6 +75,7 @@ print(df.head())
 | cap.cheap    | available | $9.99     | —             | high           | low    | 3      | name.com        |
 | most.cheap   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
 | low.cheap    | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com        |
+| cut.cheap    | available | $9.99     | $46.99        | high           | low    | 3      | name.com        |
 | event.cheap  | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
 | see.cheap    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | dig.cheap    | available | $9.99     | —             | high           | low    | 3      | name.com        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHEAP One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
